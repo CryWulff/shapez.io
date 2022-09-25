@@ -1,18 +1,18 @@
 steamPage:
-    shortText: Shapez.io handler om at bygge fabrikker på en grænseløs spilleflade
+    shortText: Shapez handler om at bygge fabrikker på en grænseløs spilleflade
         for automatisk at skabe og kombinere figurer, der i stigende grad bliver
         mere komplicerede.
     discordLinkShort: Official Discord
     intro: >-
-        Shapez.io er et afslappet spil hvor du skal bygge fabrikker for at
+        Shapez er et afslappet spil hvor du skal bygge fabrikker for at
         automatisere productionen af geometriske figurer.
 
-        Jo længere du når, jo mere kompliceret bliver figurerne, og du bliver nødt til at sprede dig ud på den grænseløse spilleflade.
+        Jo længere du når, jo mere komplicerede bliver figurerne, og du bliver nødt til at sprede dig ud på den grænseløse spilleflade.
 
-        Og, hvis det ikke var nok, så skal du også producere eksponentielt flere figurer for at møde behovene spillet giver dig - det eneste der virker er skalering! Mens du i starten kun laver former, skal du senere farvelægge dem - for at gøre dette skal du udvinde og blande farver!
+        Og, hvis det ikke var nok, så skal du også producere eksponentielt flere figurer for at fuldføre opgaverne spillet giver dig - det eneste der virker er skalering! Mens du i starten kun laver former, skal du senere farvelægge dem - for at gøre dette skal du udvinde og blande farver!
 
         Køb spillet på Steam, det giver dig adgang til det fulde spil, men du kan også spille en demoversion på shapez.io og vælge senere!
-    what_others_say: Hvad andre siger om shapez.io
+    what_others_say: Hvad andre siger om shapez
     nothernlion_comment: This game is great - I'm having a wonderful time playing,
         and time has flown by.
     notch_comment: Oh crap. I really should sleep, but I think I just figured out
@@ -51,7 +51,7 @@ global:
         escape: ESC
         shift: SKIFT/SHIFT
         space: MELLEMRUM
-    loggingIn: Logging in
+    loggingIn: Logger ind
     loadingResources: Downloader yderligere ressourcer (<percentage> %)
     discount: -<percentage>%
     discountSummerSale: SPECIAL PROMOTION! Offer ends 7 July
@@ -69,8 +69,8 @@ demoBanners:
     playtimeDisclaimer: Den fulde version indeholder mere end <strong>20 timers indhold</strong>.
     playerCount: <playerCount> spillere som dig spiller lige nu shapez på Steam
     untilEndOfDemo: Indtil afslutningen af demoen
-    playtimeDisclaimerDownload: Du kan fortsætte dit savegame i den fulde version!
-        Klik <strong>her</strong> for at downloade dit savegame.
+    playtimeDisclaimerDownload: Du kan fortsætte dit gemte spil i den fulde version!
+        Klik <strong>her</strong> for at downloade dit gemte spil.
     titleV2: "Spil den fulde version nu for:"
 mainMenu:
     play: Spil
@@ -155,7 +155,7 @@ dialogs:
     oneSavegameLimit:
         title: Begrænset mængde gemte spil
         desc: Du kan kun have et gemt spil ad gangen in demoversionen. Vær sød at slette
-            det nuværende gemte spil eller at købe spillet!
+            det nuværende gemte spil eller køb spillet!
     updateSummary:
         title: Ny opdatering!
         desc: "Dette har ændret sig siden sidst du spillede:"
@@ -176,10 +176,10 @@ dialogs:
         title: Ikke tilgængeligt endnu
         desc: Gennemfør Niveau 12 for at bruge skabeloner!
     keybindingsIntroduction:
-        title: Brugbare keybindings
-        desc: "Dette spil har mange keybindings, som gør det lettere at bygge store
+        title: Brugbare tastefunktioner
+        desc: "Dette spil har mange tastefunktioner, som gør det lettere at bygge store
             fabrikker. Her er et par, men husk at <strong>tjekke
-            keybindings</strong>!<br><br> <code class='keybinding'>CTRL</code> +
+            tastefunktioner</strong>!<br><br> <code class='keybinding'>CTRL</code> +
             Træk: Vælg et område.<br> <code class='keybinding'>SHIFT</code>:
             Hold for at placere flere af en bygning.<br> <code
             class='keybinding'>ALT</code>: Vend retningen af placerede
@@ -187,7 +187,7 @@ dialogs:
     createMarker:
         title: Ny Markør
         titleEdit: Rediger Markør
-        desc: Giv det et meningsfyldt navn. Du kan også inkludere en <strong> kort
+        desc: Giv det et meningsfyldt navn. Du kan også inkludere et <strong> kort
             nøgle</strong> af en figur (som du kan lave <link>her</link>)
     markerDemoLimit:
         desc: Du kan kun lave to markører i demoen. Køb spillet for uendeligt mange
@@ -195,8 +195,8 @@ dialogs:
     exportScreenshotWarning:
         title: Eksporter skærmbillede
         desc: Du bad om at eksportere din fabrik som et skærmbillede. Bemærk at dette
-            kan være rimelig langsomt for en stor base og kan endda lukke dit
-            spil!
+            kan være ganske langsomt for en stor fabrik og risikere at lukke
+            spillet ned!
     massCutInsufficientConfirm:
         title: Bekræft klip
         desc: Du har ikke råd til at sætte dette område ind igen! Er du sikker på at du
